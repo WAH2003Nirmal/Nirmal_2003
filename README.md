@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm W. A. H. Nirmal 👋</h1>
-<p align="center">A passionate Full-Stack Software Engineering undergraduate</p>
+<p align="center">A passionate Full-Stack Software Engineering undergraduate, currently diving into Data Analytics</p>
 
 ---
 
@@ -42,16 +42,24 @@ A comprehensive hotel management system, built with Java Swing for seamless gues
 
 ## 📊 GitHub Stats
 
- 
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Nirmal's github stats](https://github-readme-stats.vercel.app/api?username=WAH2003Nirmal&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ---
 
 ## 🌐 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/w-anjana-nirmal-a07550297">
+  <a href="https://www.linkedin.com/in/your-link">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://your-portfolio-link.com">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
   </a>
 </p>
+
+---
+
+🚀 **Currently learning:** 
+- Data Analytics, exploring tools like **Python** (Pandas, NumPy), **SQL**, and **Power BI**.
