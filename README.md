@@ -51,10 +51,10 @@ A comprehensive hotel management system, built with Java Swing for seamless gues
 
 ## 🌐 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link">
+  <a href="https://linkedin.com/in/w-anjana-nirmal-a07550297">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="https://linkedin.com/in/w-anjana-nirmal-a07550297">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
   </a>
 </p>
