@@ -43,7 +43,7 @@ A comprehensive hotel management system, built with Java Swing for seamless gues
 ## 📊 GitHub Stats
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Nirmal's github stats](https://github-readme-stats.vercel.app/api?username=WAH2003Nirmal&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Nirmal's github stats](https://github-readme-stats.vercel.app/api?username=WAH2003Nirmal&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)]
 
 ---
 
